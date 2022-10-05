@@ -4,4 +4,4 @@ Simple ANN Classifier for two inputs (x1, x2) and two outputs (inside, outside) 
 
 ## Images
 <p align="center"><b>GUI of simple ANN classifier </b></p>
-<p align="center"><img src="https://github.com/psemora/VSC_tasks/blob/main/task_2/images/gui.png" alt="GUI"/></p>
+<p align="center"><img src="https://github.com/psemora/VSC_tasks/blob/main/task_2/images/gui.PNG" alt="GUI"/></p>
