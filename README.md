@@ -1,0 +1,1 @@
+This repo contains tasks from [Neural networks and Machine Learning](https://www.fme.vutbr.cz/en/studenti/predmety/244449) course.
